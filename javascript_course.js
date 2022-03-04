@@ -5,7 +5,7 @@ function calculateArea(length, width) {
     console.log(length * width);
 }
 
-calculateArea(9123, 2812800);
+calculateArea(9123, 6999999);
 
 function triangle_area(base, height) {
     return (base * height) / 2;
